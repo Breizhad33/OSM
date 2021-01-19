@@ -1,0 +1,17 @@
+{
+  "name": "erwan",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "new-project"
+  },
+  "author": "",
+  "license": "ISC"
+}
